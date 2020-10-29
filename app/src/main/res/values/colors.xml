@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="colorPrimary">#863EFD</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="color863EFD">#863EFD</color>
+    <color name="colorBlack40">#66000000</color>
+    <color name="colorBlack60">#99000000</color>
+    <color name="colorBlack70">#B3000000</color>
+    <color name="colorBlack">#000000</color>
+    <color name="color9A9A9A">#809A9A9A</color>
+    <color name="color525252">#525252</color>
+    <color name="bg_shape_cut_preview">#87863EFD</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorEDEDED50">#ededed50</color>
+    <color name="color1">#7AE923</color>
+    <color name="color2">#F31D11</color>
+    <color name="color3">#FAB810</color>
+    <color name="color4">#00F8CB</color>
+    <color name="color5">#006DE9</color>
+    <color name="color6">#FF5C00</color>
+    <color name="color7">#FFB0A9</color>
+    <color name="color8">#00C2DD</color>
+    <color name="color9">#FF3088</color>
+    <color name="color10">#9BDAC5</color>
+    <color name="color11">#EB94FF</color>
+    <color name="colorFFD600">#FFD600</color>
+    <color name="colorCC525252">#CC525252</color>
+    <color name="color949494">#949494</color>
+    <color name="color_primary_inapp">#FF8202</color>
+    <color name="color_primary_inapp50">#80FF8202</color>
+    <color name="color_gray">#CCCCCC</color>
+    <color name="color414141">#414141</color>
+    <color name="background_splash">#650FC8</color>
+    <array name="colorLabelCategory">
+        <item>#7AE923</item>
+        <item>#F31D11</item>
+        <item>#FAB810</item>
+        <item>#00F8CB</item>
+        <item>#006DE9</item>
+        <item>#FF5C00</item>
+        <item>#FFB0A9</item>
+        <item>#00C2DD</item>
+        <item>#FF3088</item>
+        <item>#9BDAC5</item>
+        <item>#EB94FF</item>
+    </array>
+    <color name="colorFFE500">#FFE500</color>
+    <color name="color_background_intro_inapp">#FFC6CF</color>
+    <color name="color_background_intro_inapp_two">#660DCB</color>
+    <color name="color_intro_text_view">#E25269</color>
+    <color name="color_inaap_three">#F4408B</color>
+    <color name="color26C8CD">#26C8CD</color>
+    <color name="colorFF8202">#FF8202</color>
+    <color name="colorFFD601">#FFD601</color>
+    <color name="colorFCB61A">#fcb61a</color>
+</resources>
